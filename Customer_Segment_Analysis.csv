@@ -1,0 +1,34 @@
+segment_type,segment_name,customers,segment_revenue,avg_spend,response_rate_pct
+Age Segment,Senior,16930,13492151.0,796.94,9.13
+Age Segment,Mature,24689,15099057.0,611.57,7.48
+Age Segment,Middle,13350,6790894.0,508.68,6.41
+Age Segment,Young,1031,476634.0,462.3,5.4
+Income Segment,High,11200,13032747.0,1163.64,12.77
+Income Segment,Middle,28000,19166233.0,684.51,8.35
+Income Segment,Entry,12681,3341083.0,263.47,3.81
+Income Segment,Default/Low,4119,318673.0,77.37,1.34
+Education,Graduation,22741,16995472.0,747.35,9.17
+Education,Master,10530,6828691.0,648.5,6.97
+Education,PhD,12581,7242531.0,575.67,7.14
+Education,2n Cycle,5966,3050405.0,511.3,6.07
+Education,Basic,4182,1741637.0,416.46,5.39
+Marital Status,Divorced,6459,4869501.0,753.91,8.86
+Marital Status,Widow,3540,2637485.0,745.05,9.82
+Marital Status,Alone,911,638872.0,701.29,11.03
+Marital Status,Single,12238,8422039.0,688.19,8.2
+Marital Status,YOLO,730,485883.0,665.59,10.59
+Marital Status,Absurd,733,480371.0,655.35,8.64
+Marital Status,Together,17703,11414405.0,644.77,7.22
+Marital Status,Married,13686,6910180.0,504.91,6.31
+Family Composition,Alone,17778,16759326.0,942.7,10.84
+Family Composition,With Teens,8642,7789932.0,901.4,10.14
+Family Composition,With Children,18773,7268181.0,387.16,5.16
+Family Composition,Mixed Family,10807,4041297.0,373.95,4.94
+Country,Australia,5677,4697029.0,827.38,9.69
+Country,India,4814,3484625.0,723.85,8.79
+Country,Germany,4432,3134473.0,707.24,8.36
+Country,USA,4331,2875247.0,663.88,7.49
+Country,Saudi Arabia,8422,5512798.0,654.57,8.0
+Country,Mexico,875,554875.0,634.14,7.09
+Country,Canada,10746,6289869.0,585.32,6.86
+Country,Spain,16703,9309820.0,557.37,6.97
