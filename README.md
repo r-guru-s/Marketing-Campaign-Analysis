@@ -2,7 +2,6 @@
 **Python | SQL | Power BI | 56K Customer Analysis**
 
 Analyzed 56K customer records to optimize marketing campaign performance. Built end-to-end pipeline from data cleaning to interactive Power BI dashboard.
-
 ---
 ## 📁 **Files**
 - **📋 `marketing_data_dictionary.csv`** - Project Raw Data Dictionary
@@ -15,3 +14,20 @@ Analyzed 56K customer records to optimize marketing campaign performance. Built 
   - **`Customer_Segment_Analysis.csv`** - Query 2 results (6 segments)
   - **`Product_Channel_Analysis.csv`** - Query 3 results (Product ranking)
 - **📊 `Marketing_Campaign_Dashboard.pbix`** - Power BI dashboard
+- 
+Technologies Used:
+  - Python
+  - SQLite
+  - Power BI
+
+Skill Used:
+  - Python: Data cleaning, EDA, feature engineering, and CSV handling.
+  - SQL: Table design, loading data, analytical queries, KPIs.
+  - EDA & Visualization: Univariate, bivariate analysis, segmentation, and insights
+  - Power BI.
+
+Domain : Marketing Analytics / Customer Analytics 
+
+by 
+
+Rajaguru Seethamalai
