@@ -8,10 +8,8 @@ Analyzed 56K customer records to optimize marketing campaign performance. Built 
 - **📋 `marketing_data_dictionary.csv`** - Project Raw Data Dictionary
 - **📊 `marketing_campaign_data.csv`** - Project Raw Data (56K customers)
 - **📓 `Marketing_campaign_analysis.ipynb`** - PYTHON NOTEBOOK (Complete pipeline)
-- **🗄️ `marketing.db`** - SQLite database
-- **📁 Data Files/**
-  - **`marketing_campaign_data.csv`** - Original raw data
-  - **`marketing_data_dictionary.csv`** - Field definitions
+- **📁 Project Created/**
+  - **`marketing.db`** - SQLite database
   - **`marketing_data_clean.csv`** - Cleaned data (35 columns)
   - **`Market_KPIs.csv`** - Query 1 results (9 KPIs)
   - **`Customer_Segment_Analysis.csv`** - Query 2 results (6 segments)
